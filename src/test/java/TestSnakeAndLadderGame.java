@@ -1,10 +1,10 @@
 import java.util.ArrayList;
 import java.util.List;
 import org.junit.Test;
-import systemDesign.snakeAndLadder.Board;
-import systemDesign.snakeAndLadder.Ladder;
-import systemDesign.snakeAndLadder.Player;
-import systemDesign.snakeAndLadder.Snake;
+import lowLevelSystemDesign.basic.snakeAndLadder.Board;
+import lowLevelSystemDesign.basic.snakeAndLadder.Ladder;
+import lowLevelSystemDesign.basic.snakeAndLadder.Player;
+import lowLevelSystemDesign.basic.snakeAndLadder.Snake;
 
 public class TestSnakeAndLadderGame {
     @Test

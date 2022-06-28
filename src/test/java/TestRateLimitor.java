@@ -3,9 +3,9 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import static org.junit.Assert.assertTrue;
 import org.junit.Test;
-import systemDesign.rateLImiter.leakyBucket.UserLeakyBucket;
-import systemDesign.rateLImiter.slidingWindowbucket.UserSlidingWindowBucket;
-import systemDesign.rateLImiter.tokenBucket.UserTokenBucket;
+import lowLevelSystemDesign.basic.rateLImiter.leakyBucket.UserLeakyBucket;
+import lowLevelSystemDesign.basic.rateLImiter.slidingWindowbucket.UserSlidingWindowBucket;
+import lowLevelSystemDesign.basic.rateLImiter.tokenBucket.UserTokenBucket;
 
 /**
  * Unit test for simple App.
