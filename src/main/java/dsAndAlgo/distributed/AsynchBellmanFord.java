@@ -1,10 +1,7 @@
 package dsAndAlgo.distributed;
 
 /*
- * Project 2: Asynchronous Bellman Ford Algorithm 
- * 
- * Authors: Sarat Chandra Varanasi, Abhishek Thangudu, Manoj Kumar Natha
- * 
+ * Asynchronous Bellman Ford Algorithm
  * Bellman Ford Algorithm is implemented in asynchronous networks inducing
  * a random transmission time while transmitting messages from one process 
  * to other. The Algorithm is executed in Synchronous manner which is controlled
